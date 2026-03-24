@@ -1,0 +1,32 @@
+Metadata-Version: 2.4
+Name: bulk_file_organizer
+Version: 0.1.0
+Summary: Python package to automatically organize files by type
+Home-page: 
+Author: Anuska Bhandari
+Author-email: bhandarirekha652@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3
+Description-Content-Type: text/markdown
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: requires-python
+Dynamic: summary
+
+# Bulk File Organizer
+
+This tool renames multiple files in a folder automatically.
+
+## Features
+- Add prefix/suffix
+- Number files automatically
+- Replace words in file names
+- Supports different file types
+
+## Usage
+Run `main.py` in PyCharm or terminal

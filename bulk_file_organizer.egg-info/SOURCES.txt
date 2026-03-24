@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.py
+bulk_file_organizer.egg-info/PKG-INFO
+bulk_file_organizer.egg-info/SOURCES.txt
+bulk_file_organizer.egg-info/dependency_links.txt
+bulk_file_organizer.egg-info/top_level.txt
+file_renamer/__init__.py
+file_renamer/file_renamer.py
