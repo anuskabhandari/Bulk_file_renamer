@@ -1,1 +1,1 @@
-print("Bulk File Organizer Package Imported")
+from .file_renamer import BulkFileRenamer
