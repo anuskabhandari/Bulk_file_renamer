@@ -17,59 +17,11 @@ A simple and efficient Python tool to rename multiple files in a folder automati
 ---
 
 ##  Installation
-
-### Clone the repository:
-
-```bash
-https://github.com/anuskabhandari/Bulk_file_renamer.git
-cd file_renamer
-```
-
-### Or install from PyPI:
+## Installation
 
 ```bash
-pip install file-renamer
-```
+pip install file-renamer-anuska
 
----
-
-##  Usage
-
-Run the program:
-
-```bash
-python file_renamer.py
-```
-
-Enter inputs:
-
-```
-Enter folder path: test_files
-Enter prefix: file
-```
-
----
-
-##  Example (Before & After)
-
-###  Before Renaming
-https://drive.google.com/file/d/1so9-L7PhesLv45y6xH4nzYdEk1QlKBrU/view?usp=sharing
-
-
-###  After Renaming
-https://drive.google.com/file/d/1mzY2XGfYv9B4Oisgt4P9Y2gvUfc8zfZu/view?usp=sharing
-
-
----
-
-##  Example Output
-
-```
-img1.jpg → file_1.jpg
-img2.png → file_2.png
-doc1.pdf → file_3.pdf
-
-Renaming completed!
 ```
 ## Project Structure
  bulk_file_renamer/
