@@ -71,7 +71,18 @@ doc1.pdf → file_3.pdf
 
 Renaming completed!
 ```
-
+## Project Structure
+ bulk_file_renamer/
+│
+├── dist/
+├── file_renamer/
+│   ├── __init__.py
+│   └── file_renamer.py
+│
+├── LICENSE
+├── pyproject.toml
+├── README.md
+├── setup.py
 ---
 
 ##  Edge Cases Handled
@@ -92,13 +103,17 @@ Renaming completed!
 5. Rename files safely
 
 ---
-
-##  Author
-
-**Anuska Bhandari**
+## Contributing
+Contributions are welcome!
+Feel free to open issues or submit pull requests.
 
 ---
-
 ##  License
 
 This project is open-source and available under the MIT License.
+
+---
+##  Author
+
+Developed by Anuska Bhandari
+
