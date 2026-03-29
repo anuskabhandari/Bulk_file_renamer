@@ -19,7 +19,7 @@ A simple and efficient Python tool to rename multiple files in a folder automati
 ##  Installation
 
 ```bash
-pip install file-renamer-anuska
+pip install bulk-renamer-anuska
 
 ```
 ## Project Structure
