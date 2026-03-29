@@ -1,1 +1,0 @@
-print("Bulk File Organizer Package Imported")
