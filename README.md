@@ -17,7 +17,6 @@ A simple and efficient Python tool to rename multiple files in a folder automati
 ---
 
 ##  Installation
-## Installation
 
 ```bash
 pip install file-renamer-anuska
